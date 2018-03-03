@@ -14,5 +14,3 @@ INSERT INTO bears (name, age, gender, color, temperament, alive)
     VALUES ("Phyllis", 9, "F", "white", "easy", 1);
 INSERT INTO bears (name, age, gender, color, temperament, alive)
     VALUES ();
-
-                                
